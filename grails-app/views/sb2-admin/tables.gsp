@@ -8,6 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
     <meta name="author" content="">
+    <asset:stylesheet src="sb2-admin"/>
 
     <title>SB Admin 2 - Bootstrap Admin Theme</title>
 
@@ -1112,7 +1113,7 @@
 
     </div>
     <!-- /#wrapper -->
-
+    <asset:javascript src="sb2-admin"/>
     <!-- jQuery -->
     <script src="../vendor/jquery/jquery.min.js"></script>
 
