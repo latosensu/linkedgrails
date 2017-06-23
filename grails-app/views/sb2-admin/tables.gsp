@@ -8,9 +8,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
     <meta name="author" content="">
-    <asset:stylesheet src="sb2-admin"/>
     <asset:stylesheet src="datatables-plugins/dataTables.bootstrap.css"/>
     <asset:stylesheet src="datatables-responsive/dataTables.responsive.css"/>
+    <asset:stylesheet src="sb2-admin"/>
 
     <title>SB Admin 2 - Bootstrap Admin Theme</title>
 
