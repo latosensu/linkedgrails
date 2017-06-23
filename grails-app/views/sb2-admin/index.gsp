@@ -9,7 +9,6 @@
     <meta name="description" content="">
     <meta name="author" content="">
     <meta name="layout" content="sb2-admin"/>
-    <asset:stylesheet src="sb2-admin"/>
     <title>SB Admin 2 - Bootstrap Admin Theme</title>
 
     <!--&lt;!&ndash; Bootstrap Core CSS &ndash;&gt;-->
